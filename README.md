@@ -10,3 +10,7 @@ one oven to the next, if a probe was disconnected there would be an erroneously
 high reading.  After exluding these points, I got down to about 35,000 data
 points.  This was plenty to show to the customer graphically what was going on
 but was much lighter on processing power in Excel to creat the graph. 
+
+main.py is the python code to process the data
+cumulative.csv is the raw data before processing
+ovens.pdf is the chart that was created using excel on the output data
