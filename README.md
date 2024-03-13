@@ -13,4 +13,5 @@ but was much lighter on processing power in Excel to creat the graph.
 
 main.py is the python code to process the data
 cumulative.csv is the raw data before processing
+new_file.csv is the output data
 ovens.pdf is the chart that was created using excel on the output data
