@@ -18,7 +18,7 @@ def process():
     """This is the function that will open the file and process some data"""
     header = True
     line_count = 0 
-    with open('working_file.csv', 'r') as file: #raw data file
+    with open('cumulative.csv', 'r') as file: #raw data file
         with open('new_file.csv', 'w') as new_file: #output file
             for line in file.readlines():
                 if header:
